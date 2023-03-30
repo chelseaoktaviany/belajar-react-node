@@ -1,6 +1,6 @@
 # Overview
 
-Belajar _full-stack_ menggunakan framework JS, seperti ReactJS sebagai _client side_ dan NodeJS sebagai _API server side_.
+Belajar _full-stack_ menggunakan framework JS, seperti ReactJS sebagai _client side_ dan NodeJS sebagai _API server side_ dari tutorial "[Create a React Frontend and a Node Express Backend And Connect Them Together](https://medium.com/free-code-camp/create-a-react-frontend-a-node-express-backend-and-connect-them-together-c5798926047c)" oleh [João Henrique](https://medium.com/@jrshenrique) di Medium.
 
 ## Note
 
