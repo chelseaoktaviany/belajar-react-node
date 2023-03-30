@@ -9,6 +9,7 @@ Belajar _full-stack_ menggunakan framework JS, seperti ReactJS sebagai _client s
 ## Getting Started
 
 - _Clone repository_ ini.
+- Di dalam _folder_ _root directory_, ketik `npm i` atau `npm install` untuk instal beberapa _package_ dari _npm_.
 - Untuk _client side_, ketik `cd client`, kemudian `npm i` atau `npm install` untuk install beberapa _package_ dari _npm_.
 - Untuk _server side_, ketik `cd server`, kemudian `npm i` atau `npm install` untuk install beberapa _package_ dari _npm_.
 - Setelah _package_ dari _npm_ terinstall di dalam folder _client_ dan _server_, pergi ke _project directory_, dan jalankan `npm run dev`.
